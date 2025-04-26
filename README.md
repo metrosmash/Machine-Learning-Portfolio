@@ -6,6 +6,6 @@ They are Presented in the form of jupiter notebooks.
   
   - THE NY-2017 BATCH PREDICTION [Here](https://metrosmash-streamlit-deploy-main-page-qp2now.streamlit.app/)
   
-  This model uses a series of festures to predict the lenght of stay of a hospital  patient in the hospital.<Br>
+  This model uses a series of features to predict the lenght of stay of a hospital  patient in the hospital.<Br>
   For more details check [here](https://github.com/metrosmash/GDSC_ml-projects/blob/main/NY2017_Eda.ipynb)
   
